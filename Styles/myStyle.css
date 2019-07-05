@@ -363,3 +363,6 @@ margin-left:30%;
 .sender{
     background-color:#faffb4;
 }
+strong{
+    font-weight:bold !important;
+}
